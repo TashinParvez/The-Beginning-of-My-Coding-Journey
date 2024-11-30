@@ -1,4 +1,7 @@
 # The-Beginning-of-My-Coding-Journey
+![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/The-Beginning-of-My-Coding-Journey)
+![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/The-Beginning-of-My-Coding-Journey)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey)
 
 
 
