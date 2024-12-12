@@ -1,13 +1,22 @@
-# The-Beginning-of-My-Coding-Journey
-![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/The-Beginning-of-My-Coding-Journey)
-![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/The-Beginning-of-My-Coding-Journey)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey)
+# UIU-ICS (Introduction to Computer Systems)
+![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/UIU-ICS)
+![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/UIU-ICS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TashinParvez/UIU-ICS)
+
+
+## 📘 About the Course
+
+
+Course Code: CSE 1110
+
+The Introduction to Computer Systems course provides a fundamental understanding of how computer systems operate, introducing key concepts in both hardware and software. Students gain insights into the history of computation, computer architecture, essential programming concepts, and the basics of information technology.
 
 
 
-# Table of Contents
 
-## 01-07-2022
+# 📑 Table of Contents
+
+## 🗂️ 01-07-2022
 - [alphabets using Conditional operator.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/01-07-2022/alphabets%20using%20Conditional%20operator.c)
 - [calculate electricity bill.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/01-07-2022/calculate%20electricity%20bill.c)
 - [calculate total average and percentage of five subjects.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/01-07-2022/calculate%20total%20average%20and%20percentage%20of%20five%20subjects.c)
@@ -15,7 +24,7 @@
 - [leap year using.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/01-07-2022/leap%20year%20using.c)
 - [print day of week name using switch case.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/01-07-2022/print%20day%20of%20week%20name%20using%20switch%20case.c)
 
-## 02-07-2022
+## 🗂️ 02-07-2022
 - [01_basic_12.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/02-07-2022/01_basic_12.c)
 - [alculator using switch case and functions.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/02-07-2022/alculator%20using%20switch%20case%20and%20functions.c)
 - [asd.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/02-07-2022/asd.c)
@@ -27,7 +36,7 @@
 - [srabon.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/02-07-2022/srabon.c)
 
 
-## 06-07-2022
+## 🗂️ 06-07-2022
 - **Assignment**
   - [Problem1.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/06-07-2022/Assignment/Problem1.c)
   - [Problem2.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/06-07-2022/Assignment/Problem2.c)
@@ -36,7 +45,7 @@
   - [Problem5.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/06-07-2022/Assignment/Problem5.c)
   - [Ass_03.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/06-07-2022/Assignment/Ass_03.c)
 
-## 07-07-2022
+## 🗂️ 07-07-2022
 - [LCM of two numbers.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/07-07-2022/LCM%20of%20two%20numbers.c)
 - [all factors of a number.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/07-07-2022/all%20factors%20of%20a%20number.c)
 - [check whether a number is palindrome or not.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/07-07-2022/check%20whether%20a%20number%20is%20palindrome%20or%20not.c)
@@ -49,7 +58,7 @@
 - [swap first and last digit of a number.1.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/07-07-2022/swap%20first%20and%20last%20digit%20of%20a%20number.1.c)
 - [swap first and last digit of a number.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/07-07-2022/swap%20first%20and%20last%20digit%20of%20a%20number.c)
 
-## 08-07-2022
+## 🗂️ 08-07-2022
 - [Armstrong numbers between 1 to n.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/08-07-2022/Armstrong%20numbers%20between%201%20to%20n.c)
 - [LCM of two numbers.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/08-07-2022/LCM%20of%20two%20numbers.c)
 - [A Number can be Express as Sum of Two Prime Numbers.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/08-07-2022/a%20Number%20can%20be%20Express%20as%20Sum%20of%20Two%20Prime%20Numbers.c)
@@ -59,7 +68,7 @@
 - [sum of prime numbers between 1 to n.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/08-07-2022/sum%20of%20prime%20numbers%20between%201%20to%20n.c)
 - [whether a number is perfect number or not.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/08-07-2022/whether%20a%20number%20is%20perfect%20number%20or%20not.c)
 
-## 09-07-2022
+## 🗂️ 09-07-2022
 - [a number is Strong number or not.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/09-07-2022/a%20number%20is%20Strong%20number%20or%20not.c)
 - [convert Binary to Decimal number system.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/09-07-2022/convert%20Binary%20to%20Decimal%20number%20system.c)
 - [convert Binary to Octal number system.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/09-07-2022/convert%20Binary%20to%20Octal%20number%20system.c)
@@ -70,7 +79,7 @@
 - [find ones complement of a binary number.o](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/09-07-2022/find%20ones%20complement%20of%20a%20binary%20number.o)
 
 
-## 14-07-22
+## 🗂️ 14-07-22
 - [AUCTION.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/AUCTION.c)
 - [CHEFCAND.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/CHEFCAND.c)
 - [CHEFONDATE.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/CHEFONDATE.c)
@@ -92,3 +101,34 @@
 - [SONGS.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/SONGS.c)
 - [Second Max of Three Numbers.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/Second%20Max%20of%20Three%20Numbers.c)
 - [Six Friends.c](https://github.com/TashinParvez/The-Beginning-of-My-Coding-Journey/blob/main/14-07-22/Six%20Friends.c)
+
+
+## 🚀 How to Use This Repository
+
+Navigate to the Relevant Folder: Browse through the folder structure to locate specific course materials.
+
+
+
+## 🛠️ Contributing
+Contributions are welcome! If you have ideas, suggestions, or resources that could enhance this repository, feel free to submit a pull request or open an issue.
+
+
+## 📞 Contact
+For any questions, suggestions, or feedback, please feel free to reach out to the repository maintainer.
+<p align="left">
+  <a href="mailto:tashinparvez2002@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Tashin Parvez Email" />
+  </a>
+  <a href="https://linkedin.com/in/tashinparvez" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tashin Parvez LinkedIn" />
+  </a>
+  <a href="https://fb.com/tashin.parvez.5" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Tashin Parvez Facebook" />
+  </a>
+  <a href="https://tashinparvez.hashnode.dev/" target="blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tashin Parvez Hashnode" />
+  </a>
+</p>
+
+
+Happy Learning! 🚀
